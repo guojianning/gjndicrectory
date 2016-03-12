@@ -11,3 +11,7 @@ pathnameencoding = GB2312 #支持中文路径
 
 
 Git has a mutable index called stage.
+
+新增一行代码
+
+在修改
